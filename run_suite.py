@@ -21,4 +21,4 @@ with open(report_name, 'wb') as f:
     runner.run(suite)
 
 
-print("测试增加一行代码后，会不会触发轮巡构建")
+print("测试增加一行代码后，会不会触发轮巡构建2")
